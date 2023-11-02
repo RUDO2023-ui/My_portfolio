@@ -25,7 +25,7 @@
 <p>4. Собрать визуализации основных бизнес-показателей.<p/>
 <p>5. Исследовать данные о пользователях и их поведении.<p/>
 </ol>
-> <a href="https://1drv.ms/x/s!Ap31R8MMlhJli19O8ttvPcmagBHQ?e=MfZ9Co">Ссылка на проект</a>
+> <a href="https://1drv.ms/x/s!Ap31R8MMlhJli18eEERV0jL0ntUN?e=JG0Ea1">Ссылка на проект</a>
 
 <p>Выводы:<p/>
 <ol>
