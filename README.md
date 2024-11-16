@@ -60,3 +60,4 @@
 ## Контактная информация:
 - Gmail: radionsanakoev@gmail.com
 - @Mail: radionsanakoev@mail.ru
+- Telegam: http://t.me/rudokaziti
